@@ -23,9 +23,6 @@ export default function Home() {
         >
           <div className="flex flex-col px-2 text-start">
             <div className="flex flex-row mb-1">
-              <CustomText className="font-medium text-2xl pr-2">
-                I am
-              </CustomText>
               <CustomText className="font-semibold text-6xl pr-2">
                 Widi
               </CustomText>
