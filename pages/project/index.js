@@ -8,13 +8,13 @@ import { motion } from "framer-motion";
 const projects = [
   {
     title: "Work Seeker",
-    description: "Deskripsi Project 1",
+    description: "Work Seeker adalah aplikasi terdepan yang dirancang khusus untuk para freelancer yang mencari peluang pekerjaan yang sesuai dengan keterampilan dan minat mereka.",
     imageUrl: "/images/Work Seeker Thumbnail.png",
     slug: "workseeker",
   },
   {
     title: "Bejo Edu Apps",
-    description: "Deskripsi Project 2",
+    description: "Aplikasi Bejo adalah sebuah platform online learning yang revolusioner, dirancang untuk memberikan pengalaman belajar yang unik dan efektif.",
     imageUrl: "/images/Bejo Thumbnail.png",
     slug: "bejo",
   },
